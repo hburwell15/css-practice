@@ -1,0 +1,27 @@
+body {
+    background: rgb(201, 244, 245);
+    
+}
+
+#title {
+    color: rgb(214, 77, 62);
+}
+
+.subtitle {
+    color: rgb(247, 118, 104);
+}
+
+/* Gradiant 
+{
+    background: linear-gradient(to right, red, blue);
+}
+{
+    background: linear-gradient(to bottom right, red, blue);
+}
+
+Radial Gradiant
+{
+    background: radial-gradiant(cicrle, red 20%, blue 40%, green 50%);
+}
+*/
+
