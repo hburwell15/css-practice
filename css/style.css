@@ -1,15 +1,42 @@
 body {
     background: rgb(201, 244, 245);
+    font-size: 1.15em;
+    text-align: justify;
     
 }
 
-#title {
+.pt-serif-regular {
+        font-family: "PT Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+
+.protest-revolution-regular {
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(247, 118, 104);
+  }
+
+/* .title {
     color: rgb(214, 77, 62);
+} */
+
+/* .subtitle {
+    color: rgb(247, 118, 104);
+} */
+
+.link {
+    text-decoration: underline;
 }
 
-.subtitle {
-    color: rgb(247, 118, 104);
+.italics {
+    font-style: italic;
 }
+
+
+
+
 
 /* Gradiant 
 {
