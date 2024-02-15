@@ -2,29 +2,27 @@ body {
     background: rgb(201, 244, 245);
     font-size: 1.15em;
     text-align: justify;
-    
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
-.pt-serif-regular {
-        font-family: "PT Serif", serif;
-        font-weight: 400;
-        font-style: normal;
-      }
 
-.protest-revolution-regular {
+.title {
+    color: rgb(214, 77, 62);
     font-family: "Protest Revolution", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: rgb(247, 118, 104);
-  }
+    color: rgb(247, 118, 104)
+} 
 
-/* .title {
-    color: rgb(214, 77, 62);
-} */
-
-/* .subtitle {
+ .subtitle {
     color: rgb(247, 118, 104);
-} */
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(247, 118, 104)
+} 
 
 .link {
     text-decoration: underline;
@@ -32,6 +30,21 @@ body {
 
 .italics {
     font-style: italic;
+}
+
+
+#about-us-image {
+    height: 300px;
+    width: 60%;
+
+    border: 10px solid rgb(66, 41, 82);
+    margin: 80px 40px;
+
+    float: right;
+}
+
+.site-table {
+    display: inline-block;
 }
 
 
